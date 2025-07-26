@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://cinevault.pages.dev/</loc>
+      <lastmod>2025-07-26</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://cinevault.pages.dev/#/home</loc>
+      <lastmod>2025-07-26</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <!-- Catatan Penting untuk Halaman Detail Dinamis:
+        Halaman detail film/serial Anda menggunakan hash-based routing (contoh: #/media/movie/ID/slug).
+        Mesin pencari seperti Google umumnya tidak merayapi atau mengindeks bagian URL setelah '#'.
+        Untuk indexasi penuh halaman detail individual, diperlukan solusi seperti Server-Side Rendering (SSR)
+        atau Pre-rendering, yang memungkinkan konten dimuat sebelum JavaScript dieksekusi oleh browser.
+        Sitemap ini berfokus pada titik masuk utama situs Anda. -->
+</urlset>
